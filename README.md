@@ -1,6 +1,6 @@
 2024.06.27
 
-Made by Jungducknam
+Made by arden-deq
 
 CRUD 매트릭스를 보다 쉽게 작성하기 위한 툴입니다.
 
